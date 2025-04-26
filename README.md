@@ -1,16 +1,25 @@
-## Hi there 👋
+## 💼 About Me
+I'm Sherzodbek Akhmadjonov, a Business Informatics student at the University of Debrecen with strong interests in Data Analysis, Web Development, and Digital Innovation.
 
-<!--
-**mrvirtualist/mrvirtualist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔎 Experienced in Python, Pandas, Matplotlib, Seaborn for Data Analytics
+- 🧠 Skilled with React.js, HTML5, CSS3, Firebase for Front-End projects
+- 📊 Learning and applying Power BI, SAS and AWS Cloud fundamentals
+- 🌱 Always improving and expanding my technical and analytical skills
+- 🏗️ Building practical projects and sharing my journey through GitHub and LinkedIn
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Python, Pandas, Matplotlib, Seaborn
+- Power BI, SAS, SQL, PL/SQL, SAP
+- HTML5, CSS3, React.js, Firebase
+- Git, GitHub
+- AWS (basic cloud concepts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Focus
+- Strengthening Data Analytics and Visualization skills  
+- Building real-world projects in Data Analysis and Visualization
+- Exploring cloud technologies and business process improvement  
+
+---
+
+Thanks for visiting my GitHub profile! 🚀
+Feel free to check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/sherzodbek-akhmadjonov-041aa6254) or [Telegram](https://t.me/MrVirtualist)
